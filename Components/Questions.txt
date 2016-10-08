@@ -1,0 +1,7 @@
+What does this folder do?
+
+So this folder holds all of your React Components so everything can be much more organized, rather than your components being all over the place.
+
+What is a React Component?
+
+Basically React is breaking up your website, or mobile application into multiple small pieces(components), because it's just more cleaner and more organized. 
