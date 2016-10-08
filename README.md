@@ -1,6 +1,6 @@
-# Isomorphic-React.js-Boilerplate
-## A really simple boilerplate to create isomorphic React.js applications, using Mongoose, Express, React, and Node.js.
-#### I got really tired of installing all of these npm packages just to get started, so I had to make this. 
+# Palindrome Checker.
+## I made this to show how to use forms, and state properties in React.js. The application is also Isomorphic as well. 
 
-###1) Everything is setup for you. Just remember to type in 'npm install' and you're all set. 
+
+###1) This is the start into my journey deeper into React.js, and creating amazing frontend applications with it. 
 
